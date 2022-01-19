@@ -1,0 +1,17 @@
+{
+    "date": "Wed 12 Dec 2018 10:07:35 GMT",
+    "people": [
+        {
+            "name": "Dominic",
+            "occupation": "Developer",
+            "age": 29,
+            "country": "Australia"
+        },
+        {
+            "name": "Alice",
+            "occupation": "Dancer",
+            "age": 45,
+            "country": "United States"
+        }
+    ]
+}
